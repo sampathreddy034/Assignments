@@ -20,7 +20,7 @@ public String toString() {
 return "id: "+id +" name: "+name+" salary: "+salary+" department: "+department;
 }
 }
-public class maain {
+class maain {
 
 public static void main(String[] args) {
 assignment5_1 e1=new assignment5_1(01,"ben ",1001,"CN");
